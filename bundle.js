@@ -7798,19 +7798,19 @@
               word: "",
               desc: "",
               title: "",
-              type: "",
+              type: "a",
             },
             {
               word: "",
               desc: "",
               title: "",
-              type: "",
+              type: "b",
             },
             {
               word: "",
               desc: "",
               title: "",
-              type: "",
+              type: "c",
             },
           ];
         let la = 0,
