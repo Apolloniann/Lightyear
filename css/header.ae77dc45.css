@@ -988,13 +988,13 @@ strong {
   transform: translate(0, -0.1em);
 }
 .top__dot.top__dot_blue {
-  /* --btn-color: var(--color-blue); */
+  --btn-color: var(--color-blue);
 }
 .top__dot.top__dot_yellow {
-  /* --btn-color: var(--color-yellow); */
+  --btn-color: var(--color-yellow);
 }
 .top__dot.top__dot_pink {
-  /* --btn-color: var(--color-pink); */
+  --btn-color: var(--color-pink);
 }
 .top__decors {
   position: absolute;
